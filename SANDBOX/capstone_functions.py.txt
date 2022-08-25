@@ -1,5 +1,0 @@
-def get_admission(x):
-    if x['disposition'] == 'HOME':
-        return 0
-    else:
-        return 1
